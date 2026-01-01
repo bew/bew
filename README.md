@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Benoit de Chezelles, I'm a professional developer who like spending time
-hacking on personal configs, and playing with [Nix][nix] & [Rust][rust]!
+hacking on personal configs, [Nix][nix]-ifying everything, and playing with [Rust][rust]!
 
 I'm passionate about...
 - 🔧 Understanding how things _really_ work (_OSS FTW!_)
