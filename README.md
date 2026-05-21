@@ -12,11 +12,6 @@ You can reach me with `@bew:matrix.org` on Matrix, and [`@bew@floss.social`][fed
 [Fediverse](https://jointhefediverse.net/).
 
 
-### Stats
-
-![bew stats](https://github-readme-stats.vercel.app/api?username=bew&show=prs_merged&show_icons=true&theme=transparent)
-
-
 [nix]: https://nixos.org
 [rust]: https://rust-lang.org
 [fedibew]: https://floss.social/@bew
