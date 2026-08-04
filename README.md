@@ -3,6 +3,8 @@
 My name is Benoit de Chezelles, I'm a professional developer who like spending time
 hacking on personal configs, [Nix][nix]-ifying everything, and playing with [Rust][rust]!
 
+I'm also a maintainer on [Wezterm](https://github.com/wezterm/wezterm) 🫨🦀
+
 I'm passionate about...
 - 🔧 Understanding how things _really_ work (_OSS FTW!_)
 - 🐧 Everything related to Linux & the open-source ecosystem
